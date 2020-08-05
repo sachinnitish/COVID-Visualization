@@ -76,7 +76,7 @@ for col in df.columns:
 
 finalDf = pd.DataFrame(finalData, columns=['State', 'District', 'Delta Confirmed', 'Delta Deceased', 'Delta Recovered', 'Total Confirmed', 'Total Deceased', 'Total Recovered'])
 
-finalDf.to_csv('total.csv', index=False)
+finalDf.to_csv('final-total.csv', index=False)
 
 print("\n>> Data.CSV Generated \n")
 

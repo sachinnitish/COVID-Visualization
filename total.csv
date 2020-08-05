@@ -11,205 +11,205 @@ AP,Srikakulam,537,6,340,8549,92,4844
 AP,Visakhapatnam,863,2,1115,15059,131,5058
 AP,Vizianagaram,591,1,157,6228,66,2457
 AP,West Godavari,612,1,592,14406,111,8640
-AP,Y.S.R. Kadapa,765,,236,10160,49,4651
-AR,Changlang,2,,,248,,116
-AR,East Kameng,1,,1,45,,3
-AR,East Siang,4,,7,102,,53
-AR,Lohit,8,,2,37,,13
-AR,Lower Siang,7,,,38,,15
-AR,Namsai,,,2,102,,55
-AR,Papum Pare,5,,12,892,1,675
-AR,Tawang,,,9,43,,20
-AR,Tirap,2,,9,60,,25
-AR,West Kameng,3,,,56,2,34
-AS,Dibrugarh,201,2,,1882,7,550
-AS,Jorhat,,1,,1513,10,691
-AS,Kamrup,294,,,1720,5,318
-AS,Kamrup Metropolitan,550,,,16900,47,8701
-AS,Nagaon,213,,,2226,2,1009
-AS,Sonitpur,,1,,1206,2,498
-AS,Tinsukia,,2,,900,12,629
-AS,Unknown,1628,,993,10034,,13700
-BR,Araria,37,,16,764,7,420
+AP,Y.S.R. Kadapa,765,-1,236,10160,49,4651
+AR,Changlang,2,-1,-1,248,-1,116
+AR,East Kameng,1,-1,1,45,-1,3
+AR,East Siang,4,-1,7,102,-1,53
+AR,Lohit,8,-1,2,37,-1,13
+AR,Lower Siang,7,-1,-1,38,-1,15
+AR,Namsai,-1,-1,2,102,-1,55
+AR,Papum Pare,5,-1,12,892,1,675
+AR,Tawang,-1,-1,9,43,-1,20
+AR,Tirap,2,-1,9,60,-1,25
+AR,West Kameng,3,-1,-1,56,2,34
+AS,Dibrugarh,201,2,-1,1882,7,550
+AS,Jorhat,-1,1,-1,1513,10,691
+AS,Kamrup,294,-1,-1,1720,5,318
+AS,Kamrup Metropolitan,550,-1,-1,16900,47,8701
+AS,Nagaon,213,-1,-1,2226,2,1009
+AS,Sonitpur,-1,1,-1,1206,2,498
+AS,Tinsukia,-1,2,-1,900,12,629
+AS,Unknown,1628,-1,993,10034,-1,13700
+BR,Araria,37,-1,16,764,7,420
 BR,Arwal,27,1,12,632,3,430
-BR,Aurangabad,32,,33,1149,4,687
-BR,Banka,35,,9,790,2,439
-BR,Begusarai,75,,56,2123,10,1349
-BR,Bhagalpur,59,,80,2911,30,2223
+BR,Aurangabad,32,-1,33,1149,4,687
+BR,Banka,35,-1,9,790,2,439
+BR,Begusarai,75,-1,56,2123,10,1349
+BR,Bhagalpur,59,-1,80,2911,30,2223
 BR,Bhojpur,63,1,34,1820,13,1220
-BR,Buxar,77,,32,1294,4,745
-BR,Darbhanga,44,,24,1042,10,635
-BR,East Champaran,65,,42,1543,13,1073
-BR,Gaya,63,,61,2454,23,1554
-BR,Gopalganj,34,,30,1174,1,793
-BR,Jamui,37,,24,950,1,661
-BR,Jehanabad,32,,26,1017,5,733
-BR,Kaimur,12,,57,604,7,448
-BR,Katihar,120,,28,1523,3,914
-BR,Khagaria,58,,46,1393,5,947
-BR,Kishanganj,30,,39,835,4,546
-BR,Lakhisarai,23,,32,842,4,687
+BR,Buxar,77,-1,32,1294,4,745
+BR,Darbhanga,44,-1,24,1042,10,635
+BR,East Champaran,65,-1,42,1543,13,1073
+BR,Gaya,63,-1,61,2454,23,1554
+BR,Gopalganj,34,-1,30,1174,1,793
+BR,Jamui,37,-1,24,950,1,661
+BR,Jehanabad,32,-1,26,1017,5,733
+BR,Kaimur,12,-1,57,604,7,448
+BR,Katihar,120,-1,28,1523,3,914
+BR,Khagaria,58,-1,46,1393,5,947
+BR,Kishanganj,30,-1,39,835,4,546
+BR,Lakhisarai,23,-1,32,842,4,687
 BR,Madhepura,29,1,23,827,2,542
-BR,Madhubani,49,,32,1411,2,826
-BR,Munger,52,,47,1231,17,908
-BR,Muzaffarpur,197,,341,2797,13,1949
-BR,Nalanda,69,,50,2538,20,1529
-BR,Nawada,28,,34,1494,7,1172
+BR,Madhubani,49,-1,32,1411,2,826
+BR,Munger,52,-1,47,1231,17,908
+BR,Muzaffarpur,197,-1,341,2797,13,1949
+BR,Nalanda,69,-1,50,2538,20,1529
+BR,Nawada,28,-1,34,1494,7,1172
 BR,Patna,393,5,590,10510,54,7011
-BR,Purnia,69,,32,1505,4,969
+BR,Purnia,69,-1,32,1505,4,969
 BR,Rohtas,75,3,49,2438,22,1531
-BR,Saharsa,49,,20,939,1,520
+BR,Saharsa,49,-1,20,939,1,520
 BR,Samastipur,74,1,69,1529,12,969
-BR,Saran,97,,61,1897,11,1198
+BR,Saran,97,-1,61,1897,11,1198
 BR,Sheikhpura,42,1,23,698,2,445
-BR,Sheohar,11,,2,345,1,223
-BR,Sitamarhi,84,,12,849,4,384
-BR,Siwan,53,,21,1727,8,1274
-BR,Supaul,64,,33,1142,2,719
-BR,Vaishali,85,,64,1715,8,979
-BR,West Champaran,21,,68,1579,10,1108
+BR,Sheohar,11,-1,2,345,1,223
+BR,Sitamarhi,84,-1,12,849,4,384
+BR,Siwan,53,-1,21,1727,8,1274
+BR,Supaul,64,-1,33,1142,2,719
+BR,Vaishali,85,-1,64,1715,8,979
+BR,West Champaran,21,-1,68,1579,10,1108
 CH,Chandigarh,46,1,9,1206,20,715
-CT,Balod,1,,3,96,,89
-CT,Baloda Bazar,5,,12,409,2,348
-CT,Balrampur,26,,2,223,,189
-CT,Bastar,37,,3,236,1,152
-CT,Bijapur,1,,,85,,58
+CT,Balod,1,-1,3,96,-1,89
+CT,Baloda Bazar,5,-1,12,409,2,348
+CT,Balrampur,26,-1,2,223,-1,189
+CT,Bastar,37,-1,3,236,1,152
+CT,Bijapur,1,-1,-1,85,-1,58
 CT,Bilaspur,10,3,10,679,6,559
-CT,Dakshin Bastar Dantewada,,,4,135,,126
-CT,Dhamtari,1,,,43,1,32
+CT,Dakshin Bastar Dantewada,-1,-1,4,135,-1,126
+CT,Dhamtari,1,-1,-1,43,1,32
 CT,Durg,55,1,29,875,9,596
-CT,Gariaband,,,1,97,1,83
-CT,Gaurela Pendra Marwahi,1,,5,32,,30
-CT,Janjgir Champa,5,,16,499,2,438
-CT,Jashpur,1,,3,251,,215
-CT,Kabeerdham,7,,23,214,,167
-CT,Kondagaon,25,,,136,,48
-CT,Koriya,2,,,127,1,100
-CT,Mahasamund,11,,,168,1,107
-CT,Mungeli,-4,,6,175,,168
-CT,Narayanpur,1,,1,172,,159
-CT,Other State,,,1,8,2,6
-CT,Raigarh,3,,7,259,2,197
+CT,Gariaband,-1,-1,1,97,1,83
+CT,Gaurela Pendra Marwahi,1,-1,5,32,-1,30
+CT,Janjgir Champa,5,-1,16,499,2,438
+CT,Jashpur,1,-1,3,251,-1,215
+CT,Kabeerdham,7,-1,23,214,-1,167
+CT,Kondagaon,25,-1,-1,136,-1,48
+CT,Koriya,2,-1,-1,127,1,100
+CT,Mahasamund,11,-1,-1,168,1,107
+CT,Mungeli,-4,-1,6,175,-1,168
+CT,Narayanpur,1,-1,1,172,-1,159
+CT,Other State,-1,-1,1,8,2,6
+CT,Raigarh,3,-1,7,259,2,197
 CT,Raipur,157,3,178,3338,34,2119
-CT,Rajnandgaon,22,,40,770,4,579
-CT,Sukma,,,5,77,,71
-CT,Surajpur,11,,,83,1,49
-CT,Surguja,,1,7,237,2,210
-CT,Uttar Bastar Kanker,4,,,234,,225
+CT,Rajnandgaon,22,-1,40,770,4,579
+CT,Sukma,-1,-1,5,77,-1,71
+CT,Surajpur,11,-1,-1,83,1,49
+CT,Surguja,-1,1,7,237,2,210
+CT,Uttar Bastar Kanker,4,-1,-1,234,-1,225
 DL,Delhi,674,12,972,139156,4033,125226
-GA,North Goa,24,1,,1131,16,502
-GA,Other State,,,9,186,,174
-GA,South Goa,6,3,,2133,44,813
-GA,Unknown,229,,229,3625,,3625
+GA,North Goa,24,1,-1,1131,16,502
+GA,Other State,-1,-1,9,186,-1,174
+GA,South Goa,6,3,-1,2133,44,813
+GA,Unknown,229,-1,229,3625,-1,3625
 GJ,Ahmedabad,153,3,107,27122,1612,21908
-GJ,Amreli,18,,23,520,9,296
-GJ,Anand,9,,,520,13,443
-GJ,Aravalli,5,,3,317,24,266
-GJ,Banaskantha,6,,,754,17,752
-GJ,Bharuch,16,,15,943,11,705
+GJ,Amreli,18,-1,23,520,9,296
+GJ,Anand,9,-1,-1,520,13,443
+GJ,Aravalli,5,-1,3,317,24,266
+GJ,Banaskantha,6,-1,-1,754,17,752
+GJ,Bharuch,16,-1,15,943,11,705
 GJ,Bhavnagar,55,1,64,1598,28,1177
-GJ,Botad,16,,,293,5,198
-GJ,Chhota Udaipur,2,,28,175,2,149
-GJ,Dahod,23,,,667,5,185
-GJ,Dang,1,,,24,,11
-GJ,Devbhumi Dwarka,2,,2,71,4,43
-GJ,Gandhinagar,28,,21,1594,43,1242
-GJ,Gir Somnath,16,,7,443,4,282
+GJ,Botad,16,-1,-1,293,5,198
+GJ,Chhota Udaipur,2,-1,28,175,2,149
+GJ,Dahod,23,-1,-1,667,5,185
+GJ,Dang,1,-1,-1,24,-1,11
+GJ,Devbhumi Dwarka,2,-1,2,71,4,43
+GJ,Gandhinagar,28,-1,21,1594,43,1242
+GJ,Gir Somnath,16,-1,7,443,4,282
 GJ,Jamnagar,22,3,49,873,15,569
 GJ,Junagadh,37,4,18,1009,16,768
-GJ,Kheda,11,,11,653,16,524
-GJ,Kutch,23,,14,602,18,364
-GJ,Mahisagar,12,,,371,2,210
-GJ,Mehsana,15,,17,984,22,504
-GJ,Morbi,7,,10,324,6,212
-GJ,Narmada,20,,10,380,,286
-GJ,Navsari,13,,21,606,6,425
-GJ,Panchmahal,22,,4,563,16,325
-GJ,Patan,10,,36,634,31,490
-GJ,Porbandar,3,,11,97,3,45
+GJ,Kheda,11,-1,11,653,16,524
+GJ,Kutch,23,-1,14,602,18,364
+GJ,Mahisagar,12,-1,-1,371,2,210
+GJ,Mehsana,15,-1,17,984,22,504
+GJ,Morbi,7,-1,10,324,6,212
+GJ,Narmada,20,-1,10,380,-1,286
+GJ,Navsari,13,-1,21,606,6,425
+GJ,Panchmahal,22,-1,4,563,16,325
+GJ,Patan,10,-1,36,634,31,490
+GJ,Porbandar,3,-1,11,97,3,45
 GJ,Rajkot,88,1,17,2158,33,1107
-GJ,Sabarkantha,13,,25,479,8,326
+GJ,Sabarkantha,13,-1,25,479,8,326
 GJ,Surat,245,11,213,14071,457,9728
-GJ,Surendranagar,10,,40,838,10,446
-GJ,Tapi,4,,,162,1,131
+GJ,Surendranagar,10,-1,40,838,10,446
+GJ,Tapi,4,-1,-1,162,1,131
 GJ,Vadodara,105,2,132,5046,86,3946
-GJ,Valsad,10,,,694,5,415
-HP,Bilaspur,17,,,127,,66
-HP,Chamba,2,,5,119,,82
-HP,Hamirpur,3,,,318,3,285
-HP,Kangra,10,,8,492,4,368
-HP,Kullu,2,,,39,,18
-HP,Mandi,7,,,220,3,60
-HP,Shimla,2,,10,182,2,108
-HP,Sirmaur,5,,4,355,1,208
-HP,Solan,12,,23,734,,315
-HP,Una,1,,2,244,,162
-HR,Ambala,32,,34,1742,17,1432
-HR,Bhiwani,15,,6,804,6,758
+GJ,Valsad,10,-1,-1,694,5,415
+HP,Bilaspur,17,-1,-1,127,-1,66
+HP,Chamba,2,-1,5,119,-1,82
+HP,Hamirpur,3,-1,-1,318,3,285
+HP,Kangra,10,-1,8,492,4,368
+HP,Kullu,2,-1,-1,39,-1,18
+HP,Mandi,7,-1,-1,220,3,60
+HP,Shimla,2,-1,10,182,2,108
+HP,Sirmaur,5,-1,4,355,1,208
+HP,Solan,12,-1,23,734,-1,315
+HP,Una,1,-1,2,244,-1,162
+HR,Ambala,32,-1,34,1742,17,1432
+HR,Bhiwani,15,-1,6,804,6,758
 HR,Faridabad,169,1,180,9341,135,8286
 HR,Fatehabad,21,1,10,376,3,249
-HR,Gurugram,46,,115,9348,124,8468
-HR,Hisar,4,,18,1014,10,715
+HR,Gurugram,46,-1,115,9348,124,8468
+HR,Hisar,4,-1,18,1014,10,715
 HR,Jhajjar,16,1,25,865,11,765
-HR,Jind,8,,,328,5,191
-HR,Kaithal,6,,1,296,,220
-HR,Karnal,19,,35,1139,11,775
+HR,Jind,8,-1,-1,328,5,191
+HR,Kaithal,6,-1,1,296,-1,220
+HR,Karnal,19,-1,35,1139,11,775
 HR,Kurukshetra,16,1,22,553,7,311
-HR,Mahendragarh,3,,24,832,1,681
-HR,Nuh,5,,3,560,12,494
-HR,Palwal,15,,15,993,9,815
-HR,Panchkula,12,,17,743,2,364
-HR,Panipat,50,,1,1302,19,767
-HR,Rewari,20,,80,1904,8,1475
+HR,Mahendragarh,3,-1,24,832,1,681
+HR,Nuh,5,-1,3,560,12,494
+HR,Palwal,15,-1,15,993,9,815
+HR,Panchkula,12,-1,17,743,2,364
+HR,Panipat,50,-1,1,1302,19,767
+HR,Rewari,20,-1,80,1904,8,1475
 HR,Rohtak,96,1,95,1689,24,1248
 HR,Sirsa,19,3,9,445,7,261
-HR,Sonipat,29,,46,3013,33,2664
-HR,Yamunanagar,22,,20,354,3,190
-JH,Bokaro,8,,,299,2,141
-JH,Chatra,1,,,380,1,167
-JH,Dhanbad,53,,,741,14,201
-JH,Dumka,22,,5,155,,54
+HR,Sonipat,29,-1,46,3013,33,2664
+HR,Yamunanagar,22,-1,20,354,3,190
+JH,Bokaro,8,-1,-1,299,2,141
+JH,Chatra,1,-1,-1,380,1,167
+JH,Dhanbad,53,-1,-1,741,14,201
+JH,Dumka,22,-1,5,155,-1,54
 JH,East Singhbhum,208,4,57,2420,44,693
-JH,Garhwa,14,,,509,2,197
-JH,Giridih,3,,112,633,4,428
-JH,Godda,44,,,208,2,23
-JH,Gumla,1,,,383,1,103
-JH,Hazaribagh,10,,24,761,11,334
-JH,Khunti,28,,,234,1,42
-JH,Koderma,17,,6,674,5,310
-JH,Latehar,20,,,335,,107
-JH,Lohardaga,4,,46,273,2,187
-JH,Pakur,25,,,281,,79
-JH,Palamu,,,44,532,1,282
-JH,Ramgarh,,,44,493,3,205
-JH,Ranchi,68,,67,2583,25,755
-JH,Saraikela-Kharsawan,12,,,317,4,131
-JH,Simdega,7,,,557,1,394
-JH,West Singhbhum,25,,,407,2,147
-JK,Anantnag,37,,45,1411,26,1115
+JH,Garhwa,14,-1,-1,509,2,197
+JH,Giridih,3,-1,112,633,4,428
+JH,Godda,44,-1,-1,208,2,23
+JH,Gumla,1,-1,-1,383,1,103
+JH,Hazaribagh,10,-1,24,761,11,334
+JH,Khunti,28,-1,-1,234,1,42
+JH,Koderma,17,-1,6,674,5,310
+JH,Latehar,20,-1,-1,335,-1,107
+JH,Lohardaga,4,-1,46,273,2,187
+JH,Pakur,25,-1,-1,281,-1,79
+JH,Palamu,-1,-1,44,532,1,282
+JH,Ramgarh,-1,-1,44,493,3,205
+JH,Ranchi,68,-1,67,2583,25,755
+JH,Saraikela-Kharsawan,12,-1,-1,317,4,131
+JH,Simdega,7,-1,-1,557,1,394
+JH,West Singhbhum,25,-1,-1,407,2,147
+JK,Anantnag,37,-1,45,1411,26,1115
 JK,Bandipora,5,1,1,820,15,532
 JK,Baramulla,14,1,9,1968,73,1452
 JK,Budgam,9,3,150,1345,31,878
-JK,Doda,7,,17,299,2,217
-JK,Ganderbal,28,,34,518,7,331
-JK,Jammu,41,,52,1300,21,696
-JK,Kathua,4,,42,551,1,411
-JK,Kishtwar,,,20,155,,100
-JK,Kulgam,1,,12,1524,29,1322
-JK,Kupwara,20,,4,1161,21,940
+JK,Doda,7,-1,17,299,2,217
+JK,Ganderbal,28,-1,34,518,7,331
+JK,Jammu,41,-1,52,1300,21,696
+JK,Kathua,4,-1,42,551,1,411
+JK,Kishtwar,-1,-1,20,155,-1,100
+JK,Kulgam,1,-1,12,1524,29,1322
+JK,Kupwara,20,-1,4,1161,21,940
 JK,Pulwama,14,2,49,1628,24,881
-JK,Punch,14,,8,248,1,152
-JK,Rajouri,21,,147,741,2,451
-JK,Ramban,,,1,574,1,442
-JK,Reasi,28,,1,198,,60
-JK,Samba,11,,1,457,1,280
-JK,Shopiyan,11,,,1485,23,1238
+JK,Punch,14,-1,8,248,1,152
+JK,Rajouri,21,-1,147,741,2,451
+JK,Ramban,-1,-1,1,574,1,442
+JK,Reasi,28,-1,1,198,-1,60
+JK,Samba,11,-1,1,457,1,280
+JK,Shopiyan,11,-1,-1,1485,23,1238
 JK,Srinagar,99,3,229,5432,138,2994
-JK,Udhampur,26,,2,581,1,364
+JK,Udhampur,26,-1,2,581,1,364
 KA,Bagalkote,144,1,28,2297,50,1059
 KA,Ballari,284,5,483,7638,84,3724
 KA,Belagavi,263,1,28,3944,86,1082
-KA,Bengaluru Rural,82,,56,2471,10,704
+KA,Bengaluru Rural,82,-1,56,2471,10,704
 KA,Bengaluru Urban,2035,30,4274,63033,1134,27877
 KA,Bidar,114,3,22,2562,85,1692
 KA,Chamarajanagara,57,3,23,852,13,517
@@ -223,48 +223,48 @@ KA,Gadag,96,1,55,1764,40,633
 KA,Hassan,188,2,44,2742,70,1063
 KA,Haveri,157,1,16,1445,28,668
 KA,Kalaburagi,285,2,152,6222,113,3470
-KA,Kodagu,31,,,537,9,320
-KA,Kolar,46,,38,1501,25,587
+KA,Kodagu,31,-1,-1,537,9,320
+KA,Kolar,46,-1,38,1501,25,587
 KA,Koppal,163,1,33,1592,24,746
 KA,Mandya,126,2,40,2035,16,1093
 KA,Mysuru,662,9,164,5854,183,2230
 KA,Raichur,144,2,116,2853,30,1881
-KA,Ramanagara,65,,259,1303,11,664
+KA,Ramanagara,65,-1,259,1303,11,664
 KA,Shivamogga,15,4,43,2111,39,775
 KA,Tumakuru,78,1,59,1942,56,918
 KA,Udupi,170,6,161,4969,42,2889
-KA,Uttara Kannada,57,,,2277,25,1509
+KA,Uttara Kannada,57,-1,-1,2277,25,1509
 KA,Vijayapura,71,1,78,3295,39,2271
 KA,Yadgir,76,2,13,2587,10,1928
-KL,Alappuzha,126,,55,2056,6,1206
+KL,Alappuzha,126,-1,55,2056,6,1206
 KL,Ernakulam,135,1,49,2293,13,1203
-KL,Idukki,,,26,885,2,577
-KL,Kannur,37,,103,1480,8,1126
-KL,Kasaragod,91,,25,2066,6,1130
-KL,Kollam,30,,36,1937,6,1336
-KL,Kottayam,23,,107,1372,1,900
+KL,Idukki,-1,-1,26,885,2,577
+KL,Kannur,37,-1,103,1480,8,1126
+KL,Kasaragod,91,-1,25,2066,6,1130
+KL,Kollam,30,-1,36,1937,6,1336
+KL,Kottayam,23,-1,107,1372,1,900
 KL,Kozhikode,97,1,44,1739,9,957
-KL,Malappuram,131,,94,2542,8,1529
-KL,Palakkad,50,,56,1905,2,1474
-KL,Pathanamthitta,32,,62,1620,1,1124
+KL,Malappuram,131,-1,94,2542,8,1529
+KL,Palakkad,50,-1,56,1905,2,1474
+KL,Pathanamthitta,32,-1,62,1620,1,1124
 KL,Thiruvananthapuram,242,1,310,5575,16,2225
-KL,Thrissur,72,,45,1748,9,1161
-KL,Wayanad,17,,9,738,1,351
-LA,Leh,49,,18,698,4,400
+KL,Thrissur,72,-1,45,1748,9,1161
+KL,Wayanad,17,-1,9,738,1,351
+LA,Leh,49,-1,18,698,4,400
 MH,Ahmednagar,327,2,197,6233,78,3609
 MH,Akola,16,3,15,2709,126,2055
 MH,Amravati,72,1,75,2367,69,1588
 MH,Aurangabad,221,11,334,14672,518,9400
-MH,Beed,57,,29,989,23,302
-MH,Bhandara,,,1,260,2,204
+MH,Beed,57,-1,29,989,23,302
+MH,Bhandara,-1,-1,1,260,2,204
 MH,Buldhana,87,1,58,1542,43,840
-MH,Chandrapur,12,,3,534,1,282
+MH,Chandrapur,12,-1,3,534,1,282
 MH,Dhule,35,3,110,3276,111,2145
-MH,Gadchiroli,12,,3,308,1,249
-MH,Gondia,17,,2,398,3,245
-MH,Hingoli,3,,4,671,15,446
+MH,Gadchiroli,12,-1,3,308,1,249
+MH,Gondia,17,-1,2,398,3,245
+MH,Hingoli,3,-1,4,671,15,446
 MH,Jalgaon,290,12,163,12085,558,8318
-MH,Jalna,1,,,2010,78,1512
+MH,Jalna,1,-1,-1,2010,78,1512
 MH,Kolhapur,243,40,344,6657,165,2577
 MH,Latur,119,6,47,2598,119,1259
 MH,Mumbai,709,56,871,118115,6549,90960
@@ -274,200 +274,200 @@ MH,Nandurbar,10,2,5,668,38,441
 MH,Nashik,455,9,400,16534,498,10419
 MH,Osmanabad,344,2,32,1471,56,561
 MH,Palghar,209,5,311,16817,368,10305
-MH,Parbhani,42,,19,741,25,378
+MH,Parbhani,42,-1,19,741,25,378
 MH,Pune,2207,56,5418,98876,2342,58137
 MH,Raigad,235,6,738,17989,417,13207
-MH,Ratnagiri,58,,80,1928,66,1242
+MH,Ratnagiri,58,-1,80,1928,66,1242
 MH,Sangli,255,8,97,3406,94,1245
 MH,Satara,163,1,73,4616,152,2650
-MH,Sindhudurg,14,,9,414,7,294
+MH,Sindhudurg,14,-1,9,414,7,294
 MH,Solapur,200,4,319,10002,532,5266
 MH,Thane,873,51,2402,98216,2754,64850
 MH,Wardha,11,1,6,237,5,152
-MH,Washim,64,,32,700,17,461
-MH,Yavatmal,52,,96,1162,30,679
-ML,East Khasi Hills,9,,54,717,2,242
-ML,Ribhoi,5,,1,106,3,44
-ML,South West Garo Hills,,,4,8,,8
-ML,West Garo Hills,1,,,32,,15
-ML,West Khasi Hills,,,7,5,,7
-MN,Chandel,5,,,45,2,4
-MN,Imphal East,8,,,146,,16
-MN,Imphal West,25,,,445,1,52
-MN,Kakching,2,,,154,,27
-MN,Tamenglong,1,,,231,,32
-MN,Thoubal,23,,,312,3,23
-MN,Unknown,,,48,28,,1421
-MP,Agar Malwa,,,3,91,3,74
-MP,Alirajpur,,,12,178,1,87
-MP,Ashoknagar,1,,2,99,3,81
-MP,Balaghat,9,,7,144,,106
-MP,Barwani,38,,34,802,7,419
-MP,Betul,5,,5,271,3,186
-MP,Bhind,16,,9,476,1,433
+MH,Washim,64,-1,32,700,17,461
+MH,Yavatmal,52,-1,96,1162,30,679
+ML,East Khasi Hills,9,-1,54,717,2,242
+ML,Ribhoi,5,-1,1,106,3,44
+ML,South West Garo Hills,-1,-1,4,8,-1,8
+ML,West Garo Hills,1,-1,-1,32,-1,15
+ML,West Khasi Hills,-1,-1,7,5,-1,7
+MN,Chandel,5,-1,-1,45,2,4
+MN,Imphal East,8,-1,-1,146,-1,16
+MN,Imphal West,25,-1,-1,445,1,52
+MN,Kakching,2,-1,-1,154,-1,27
+MN,Tamenglong,1,-1,-1,231,-1,32
+MN,Thoubal,23,-1,-1,312,3,23
+MN,Unknown,-1,-1,48,28,-1,1421
+MP,Agar Malwa,-1,-1,3,91,3,74
+MP,Alirajpur,-1,-1,12,178,1,87
+MP,Ashoknagar,1,-1,2,99,3,81
+MP,Balaghat,9,-1,7,144,-1,106
+MP,Barwani,38,-1,34,802,7,419
+MP,Betul,5,-1,5,271,3,186
+MP,Bhind,16,-1,9,476,1,433
 MP,Bhopal,172,2,249,6965,192,4472
-MP,Burhanpur,2,,4,486,25,437
-MP,Chhatarpur,2,,10,364,8,295
-MP,Chhindwara,7,,4,197,2,113
+MP,Burhanpur,2,-1,4,486,25,437
+MP,Chhatarpur,2,-1,10,364,8,295
+MP,Chhindwara,7,-1,4,197,2,113
 MP,Damoh,6,1,10,234,3,129
-MP,Datia,2,,,232,4,183
-MP,Dewas,3,,,451,10,393
-MP,Dhar,5,,4,447,10,330
-MP,Dindori,2,,2,50,,33
-MP,Guna,8,,2,87,4,55
-MP,Gwalior,83,,81,2590,13,1913
-MP,Harda,1,,,217,6,180
+MP,Datia,2,-1,-1,232,4,183
+MP,Dewas,3,-1,-1,451,10,393
+MP,Dhar,5,-1,4,447,10,330
+MP,Dindori,2,-1,2,50,-1,33
+MP,Guna,8,-1,2,87,4,55
+MP,Gwalior,83,-1,81,2590,13,1913
+MP,Harda,1,-1,-1,217,6,180
 MP,Hoshangabad,26,1,19,264,8,133
 MP,Indore,89,3,427,7735,320,5662
 MP,Jabalpur,60,2,102,1506,32,1006
-MP,Jhabua,,,5,146,3,108
-MP,Katni,5,,22,174,3,110
-MP,Khandwa,9,,9,677,19,564
-MP,Khargone,12,,42,818,18,639
-MP,Mandla,2,,,40,1,19
-MP,Mandsaur,6,,12,447,11,384
-MP,Morena,43,,16,1686,9,1511
-MP,Narsinghpur,12,,14,195,1,120
-MP,Neemuch,6,,20,781,9,621
-MP,Niwari,1,,5,52,,30
-MP,Panna,6,,1,106,,89
-MP,Raisen,2,,53,370,8,304
-MP,Rajgarh,6,,6,376,9,211
+MP,Jhabua,-1,-1,5,146,3,108
+MP,Katni,5,-1,22,174,3,110
+MP,Khandwa,9,-1,9,677,19,564
+MP,Khargone,12,-1,42,818,18,639
+MP,Mandla,2,-1,-1,40,1,19
+MP,Mandsaur,6,-1,12,447,11,384
+MP,Morena,43,-1,16,1686,9,1511
+MP,Narsinghpur,12,-1,14,195,1,120
+MP,Neemuch,6,-1,20,781,9,621
+MP,Niwari,1,-1,5,52,-1,30
+MP,Panna,6,-1,1,106,-1,89
+MP,Raisen,2,-1,53,370,8,304
+MP,Rajgarh,6,-1,6,376,9,211
 MP,Ratlam,22,1,13,480,11,385
-MP,Rewa,10,,6,377,3,192
+MP,Rewa,10,-1,6,377,3,192
 MP,Sagar,12,1,5,712,34,560
-MP,Satna,6,,4,194,8,114
-MP,Sehore,9,,30,310,11,168
-MP,Seoni,2,,2,51,1,30
-MP,Shahdol,8,,5,87,,55
-MP,Shajapur,,1,8,297,5,251
-MP,Sheopur,2,,13,251,2,204
-MP,Shivpuri,14,,7,334,2,265
-MP,Sidhi,12,,2,106,1,64
-MP,Singrauli,25,,6,114,2,54
-MP,Tikamgarh,2,,3,312,8,280
-MP,Ujjain,12,,7,1230,74,993
-MP,Vidisha,14,,13,356,2,267
-MZ,Aizawl,,,11,297,,121
-MZ,Lawngtlai,,,1,23,,20
-MZ,Lunglei,6,,4,92,,57
-NL,Dimapur,187,,,1104,4,65
-NL,Mon,89,,,263,,64
-NL,Phek,,,2,30,,18
-OR,Angul,14,,2,381,2,244
-OR,Balangir,5,,16,519,,338
-OR,Balasore,37,,58,1128,6,829
-OR,Bargarh,10,,12,473,1,363
-OR,Bhadrak,40,,4,716,6,565
-OR,Boudh,2,,9,153,,130
-OR,Cuttack,121,,68,2458,14,1684
-OR,Deogarh,,,1,96,,83
-OR,Dhenkanal,51,,5,420,,191
-OR,Gajapati,38,,120,1700,14,1143
+MP,Satna,6,-1,4,194,8,114
+MP,Sehore,9,-1,30,310,11,168
+MP,Seoni,2,-1,2,51,1,30
+MP,Shahdol,8,-1,5,87,-1,55
+MP,Shajapur,-1,1,8,297,5,251
+MP,Sheopur,2,-1,13,251,2,204
+MP,Shivpuri,14,-1,7,334,2,265
+MP,Sidhi,12,-1,2,106,1,64
+MP,Singrauli,25,-1,6,114,2,54
+MP,Tikamgarh,2,-1,3,312,8,280
+MP,Ujjain,12,-1,7,1230,74,993
+MP,Vidisha,14,-1,13,356,2,267
+MZ,Aizawl,-1,-1,11,297,-1,121
+MZ,Lawngtlai,-1,-1,1,23,-1,20
+MZ,Lunglei,6,-1,4,92,-1,57
+NL,Dimapur,187,-1,-1,1104,4,65
+NL,Mon,89,-1,-1,263,-1,64
+NL,Phek,-1,-1,2,30,-1,18
+OR,Angul,14,-1,2,381,2,244
+OR,Balangir,5,-1,16,519,-1,338
+OR,Balasore,37,-1,58,1128,6,829
+OR,Bargarh,10,-1,12,473,1,363
+OR,Bhadrak,40,-1,4,716,6,565
+OR,Boudh,2,-1,9,153,-1,130
+OR,Cuttack,121,-1,68,2458,14,1684
+OR,Deogarh,-1,-1,1,96,-1,83
+OR,Dhenkanal,51,-1,5,420,-1,191
+OR,Gajapati,38,-1,120,1700,14,1143
 OR,Ganjam,288,6,258,11611,119,8136
-OR,Jagatsinghpur,20,,2,784,2,632
+OR,Jagatsinghpur,20,-1,2,784,2,632
 OR,Jajpur,39,1,25,1402,4,1144
-OR,Jharsuguda,3,,11,333,1,294
-OR,Kalahandi,47,,1,306,2,114
-OR,Kandhamal,62,,30,678,2,400
-OR,Kendrapara,12,,12,537,3,430
-OR,Kendujhar,66,,19,856,2,688
+OR,Jharsuguda,3,-1,11,333,1,294
+OR,Kalahandi,47,-1,1,306,2,114
+OR,Kandhamal,62,-1,30,678,2,400
+OR,Kendrapara,12,-1,12,537,3,430
+OR,Kendujhar,66,-1,19,856,2,688
 OR,Khordha,201,1,218,5115,38,2293
-OR,Koraput,49,,84,975,,435
+OR,Koraput,49,-1,84,975,-1,435
 OR,Malkangiri,34,1,24,663,4,390
-OR,Mayurbhanj,28,,7,749,2,512
-OR,Nabarangapur,2,,34,308,1,233
-OR,Nayagarh,31,,10,717,5,476
-OR,Nuapada,3,,8,158,,111
+OR,Mayurbhanj,28,-1,7,749,2,512
+OR,Nabarangapur,2,-1,34,308,1,233
+OR,Nayagarh,31,-1,10,717,5,476
+OR,Nuapada,3,-1,8,158,-1,111
 OR,Puri,34,1,121,919,6,567
-OR,Rayagada,,,128,1132,10,680
-OR,Sambalpur,82,,,663,1,234
-OR,Subarnapur,1,,,110,,84
-OR,Sundargarh,64,,122,1621,13,1060
-PB,Amritsar,39,,56,2024,85,1491
-PB,Barnala,14,,2,318,7,92
-PB,Bathinda,14,,104,585,8,286
-PB,Faridkot,1,,,319,,252
+OR,Rayagada,-1,-1,128,1132,10,680
+OR,Sambalpur,82,-1,-1,663,1,234
+OR,Subarnapur,1,-1,-1,110,-1,84
+OR,Sundargarh,64,-1,122,1621,13,1060
+PB,Amritsar,39,-1,56,2024,85,1491
+PB,Barnala,14,-1,2,318,7,92
+PB,Bathinda,14,-1,104,585,8,286
+PB,Faridkot,1,-1,-1,319,-1,252
 PB,Fatehgarh Sahib,13,1,20,393,3,287
-PB,Fazilka,3,,,327,1,216
-PB,Ferozepur,14,,,565,6,228
+PB,Fazilka,3,-1,-1,327,1,216
+PB,Ferozepur,14,-1,-1,565,6,228
 PB,Gurdaspur,10,1,85,668,19,458
-PB,Hoshiarpur,10,,7,569,15,512
+PB,Hoshiarpur,10,-1,7,569,15,512
 PB,Jalandhar,34,5,63,2644,60,1796
-PB,Kapurthala,7,,15,340,11,180
+PB,Kapurthala,7,-1,15,340,11,180
 PB,Ludhiana,221,7,191,3935,122,2460
-PB,Mansa,15,,4,159,,96
-PB,Moga,6,,20,455,5,243
-PB,Pathankot,15,,11,456,13,315
-PB,Patiala,19,5,,1938,38,1194
-PB,Rupnagar,5,,,273,4,187
-PB,S.A.S. Nagar,11,,3,949,17,573
+PB,Mansa,15,-1,4,159,-1,96
+PB,Moga,6,-1,20,455,5,243
+PB,Pathankot,15,-1,11,456,13,315
+PB,Patiala,19,5,-1,1938,38,1194
+PB,Rupnagar,5,-1,-1,273,4,187
+PB,S.A.S. Nagar,11,-1,3,949,17,573
 PB,Sangrur,35,1,26,1161,30,911
-PB,Sri Muktsar Sahib,1,,2,240,2,212
-PB,Tarn Taran,1,,,377,12,236
-PY,Karaikal,5,,3,209,2,148
-PY,Mahe,-1,,,24,,23
+PB,Sri Muktsar Sahib,1,-1,2,240,2,212
+PB,Tarn Taran,1,-1,-1,377,12,236
+PY,Karaikal,5,-1,3,209,2,148
+PY,Mahe,-1,-1,-1,24,-1,23
 PY,Puducherry,161,2,112,3653,53,2264
-PY,Yanam,,,11,261,3,102
+PY,Yanam,-1,-1,11,261,3,102
 RJ,Ajmer,57,3,85,2174,53,1602
 RJ,Alwar,154,2,13,4527,20,1909
-RJ,Banswara,3,,,223,2,136
-RJ,Baran,40,,12,221,5,107
-RJ,Barmer,37,,,1582,12,820
+RJ,Banswara,3,-1,-1,223,2,136
+RJ,Baran,40,-1,12,221,5,107
+RJ,Barmer,37,-1,-1,1582,12,820
 RJ,Bharatpur,50,1,70,2742,55,2281
-RJ,Bhilwara,99,,11,801,8,375
-RJ,Bikaner,80,,46,2226,42,1595
-RJ,Bundi,8,,9,229,,69
-RJ,Chittorgarh,13,,4,331,6,220
+RJ,Bhilwara,99,-1,11,801,8,375
+RJ,Bikaner,80,-1,46,2226,42,1595
+RJ,Bundi,8,-1,9,229,-1,69
+RJ,Chittorgarh,13,-1,4,331,6,220
 RJ,Churu,12,1,21,695,4,542
-RJ,Dausa,8,,,338,4,281
+RJ,Dausa,8,-1,-1,338,4,281
 RJ,Dholpur,63,1,31,1351,16,1080
-RJ,Dungarpur,24,,13,642,1,559
-RJ,Ganganagar,1,,4,278,3,131
-RJ,Hanumangarh,7,,,234,1,186
-RJ,Jaipur,98,,48,5896,206,4082
-RJ,Jaisalmer,3,,5,205,,164
-RJ,Jalore,,,16,1178,4,1089
-RJ,Jhalawar,20,,,639,,451
-RJ,Jhunjhunu,,,11,632,5,577
-RJ,Jodhpur,52,,182,7291,84,5563
-RJ,Karauli,13,1,,375,7,222
-RJ,Kota,146,,25,2231,35,1130
-RJ,Nagaur,,,12,1559,31,1297
-RJ,Other State,1,2,,189,39,54
-RJ,Pali,72,,52,2824,31,2335
-RJ,Pratapgarh,,,1,194,2,161
-RJ,Rajsamand,,,30,650,7,560
-RJ,Sawai Madhopur,,,7,254,12,150
+RJ,Dungarpur,24,-1,13,642,1,559
+RJ,Ganganagar,1,-1,4,278,3,131
+RJ,Hanumangarh,7,-1,-1,234,1,186
+RJ,Jaipur,98,-1,48,5896,206,4082
+RJ,Jaisalmer,3,-1,5,205,-1,164
+RJ,Jalore,-1,-1,16,1178,4,1089
+RJ,Jhalawar,20,-1,-1,639,-1,451
+RJ,Jhunjhunu,-1,-1,11,632,5,577
+RJ,Jodhpur,52,-1,182,7291,84,5563
+RJ,Karauli,13,1,-1,375,7,222
+RJ,Kota,146,-1,25,2231,35,1130
+RJ,Nagaur,-1,-1,12,1559,31,1297
+RJ,Other State,1,2,-1,189,39,54
+RJ,Pali,72,-1,52,2824,31,2335
+RJ,Pratapgarh,-1,-1,1,194,2,161
+RJ,Rajsamand,-1,-1,30,650,7,560
+RJ,Sawai Madhopur,-1,-1,7,254,12,150
 RJ,Sikar,12,2,66,1202,10,889
-RJ,Sirohi,1,,4,905,11,774
-RJ,Tonk,18,,3,322,3,266
-RJ,Udaipur,32,,,1397,13,1060
-SK,East Sikkim,109,,2,596,1,210
-SK,South Sikkim,-14,,8,144,,73
-SK,Unknown,,,-8,42,,15
+RJ,Sirohi,1,-1,4,905,11,774
+RJ,Tonk,18,-1,3,322,3,266
+RJ,Udaipur,32,-1,-1,1397,13,1060
+SK,East Sikkim,109,-1,2,596,1,210
+SK,South Sikkim,-14,-1,8,144,-1,73
+SK,Unknown,-1,-1,-8,42,-1,15
 TG,Unknown,1286,12,1066,68946,563,49675
-TN,Airport Quarantine,12,,18,1477,1,1160
-TN,Ariyalur,49,,21,1094,7,870
+TN,Airport Quarantine,12,-1,18,1477,1,1160
+TN,Ariyalur,49,-1,21,1094,7,870
 TN,Chengalpattu,260,10,386,15917,272,13062
 TN,Chennai,1042,26,1143,104027,2199,89969
 TN,Coimbatore,230,7,233,5688,85,3918
 TN,Cuddalore,264,3,61,3846,37,2089
 TN,Dharmapuri,2,1,124,791,7,683
 TN,Dindigul,65,1,100,3131,57,2581
-TN,Erode,22,,10,789,10,607
-TN,Kallakurichi,149,,109,4055,26,3012
+TN,Erode,22,-1,10,789,10,607
+TN,Kallakurichi,149,-1,109,4055,26,3012
 TN,Kancheepuram,208,6,559,10303,128,7316
 TN,Kanyakumari,128,9,192,5435,61,3372
-TN,Karur,23,,31,602,10,328
+TN,Karur,23,-1,31,602,10,328
 TN,Krishnagiri,26,2,43,1196,16,660
 TN,Madurai,32,4,197,11487,261,8984
 TN,Nagapattinam,56,1,6,873,10,459
 TN,Namakkal,34,1,38,835,8,481
-TN,Nilgiris,14,,22,863,2,722
-TN,Perambalur,4,,37,547,6,360
+TN,Nilgiris,14,-1,22,863,2,722
+TN,Perambalur,4,-1,37,547,6,360
 TN,Pudukkottai,43,1,96,2514,30,1693
-TN,Railway Quarantine,1,,,426,,424
+TN,Railway Quarantine,1,-1,-1,426,-1,424
 TN,Ramanathapuram,49,2,85,3449,70,2899
 TN,Ranipet,78,-1,149,5930,40,4094
 TN,Salem,63,3,69,3931,39,2755
@@ -476,8 +476,8 @@ TN,Tenkasi,46,4,386,2443,36,1622
 TN,Thanjavur,89,1,200,3243,32,2347
 TN,Theni,292,4,175,6261,72,3498
 TN,Thiruvallur,346,-1,319,15096,257,11402
-TN,Thiruvarur,31,,100,1830,9,1498
-TN,Thoothukkudi,189,,349,8035,58,6000
+TN,Thiruvarur,31,-1,100,1830,9,1498
+TN,Thoothukkudi,189,-1,349,8035,58,6000
 TN,Tiruchirappalli,86,2,162,4603,62,3106
 TN,Tirunelveli,156,6,149,5797,61,3438
 TN,Tirupathur,66,2,32,1344,22,824
@@ -486,121 +486,121 @@ TN,Tiruvannamalai,133,4,184,6793,73,4453
 TN,Vellore,150,2,131,6526,67,5225
 TN,Viluppuram,50,1,51,4162,38,3308
 TN,Virudhunagar,426,4,447,9269,109,6783
-TR,Dhalai,1,,6,636,2,567
+TR,Dhalai,1,-1,6,636,2,567
 TR,Gomati,26,1,22,919,8,573
-TR,Khowai,16,,13,456,3,301
-TR,North Tripura,14,,1,478,1,288
-TR,Sipahijala,28,,6,1178,2,906
-TR,South Tripura,3,,2,370,3,255
-TR,Unokoti,,,1,135,,112
-TR,West Tripura,43,,19,1348,9,673
-UP,Agra,10,,21,1905,99,1515
-UP,Aligarh,36,,22,1638,26,679
+TR,Khowai,16,-1,13,456,3,301
+TR,North Tripura,14,-1,1,478,1,288
+TR,Sipahijala,28,-1,6,1178,2,906
+TR,South Tripura,3,-1,2,370,3,255
+TR,Unokoti,-1,-1,1,135,-1,112
+TR,West Tripura,43,-1,19,1348,9,673
+UP,Agra,10,-1,21,1905,99,1515
+UP,Aligarh,36,-1,22,1638,26,679
 UP,Ambedkar Nagar,1,1,1,311,11,161
-UP,Amethi,5,,12,503,2,398
-UP,Amroha,35,,6,766,11,338
-UP,Auraiya,21,,37,494,2,255
+UP,Amethi,5,-1,12,503,2,398
+UP,Amroha,35,-1,6,766,11,338
+UP,Auraiya,21,-1,37,494,2,255
 UP,Ayodhya,20,1,14,1370,17,744
 UP,Azamgarh,36,3,23,1187,16,462
-UP,Baghpat,2,,1,632,12,554
-UP,Bahraich,34,,11,676,8,281
-UP,Ballia,,,3,1930,17,819
-UP,Balrampur,9,,4,319,8,170
-UP,Banda,3,,1,325,2,185
-UP,Barabanki,33,,43,1354,12,881
+UP,Baghpat,2,-1,1,632,12,554
+UP,Bahraich,34,-1,11,676,8,281
+UP,Ballia,-1,-1,3,1930,17,819
+UP,Balrampur,9,-1,4,319,8,170
+UP,Banda,3,-1,1,325,2,185
+UP,Barabanki,33,-1,43,1354,12,881
 UP,Bareilly,98,-2,18,2821,67,1103
-UP,Basti,35,,18,1029,30,606
-UP,Bhadohi,24,,3,662,6,278
-UP,Bijnor,16,,10,776,9,604
-UP,Budaun,13,,18,544,4,325
-UP,Bulandshahr,17,,25,1430,33,1141
+UP,Basti,35,-1,18,1029,30,606
+UP,Bhadohi,24,-1,3,662,6,278
+UP,Bijnor,16,-1,10,776,9,604
+UP,Budaun,13,-1,18,544,4,325
+UP,Bulandshahr,17,-1,25,1430,33,1141
 UP,Chandauli,17,1,27,1068,9,688
-UP,Chitrakoot,,,1,256,2,121
-UP,Deoria,57,,41,1444,9,777
-UP,Etah,34,,2,393,10,143
+UP,Chitrakoot,-1,-1,1,256,2,121
+UP,Deoria,57,-1,41,1444,9,777
+UP,Etah,34,-1,2,393,10,143
 UP,Etawah,38,2,26,837,27,509
-UP,Farrukhabad,20,,12,554,12,377
-UP,Fatehpur,26,,15,600,12,315
-UP,Firozabad,10,,13,779,41,608
-UP,Gautam Buddha Nagar,35,,54,5544,43,4599
-UP,Ghaziabad,59,,60,5337,64,4345
-UP,Ghazipur,44,,14,1294,11,691
+UP,Farrukhabad,20,-1,12,554,12,377
+UP,Fatehpur,26,-1,15,600,12,315
+UP,Firozabad,10,-1,13,779,41,608
+UP,Gautam Buddha Nagar,35,-1,54,5544,43,4599
+UP,Ghaziabad,59,-1,60,5337,64,4345
+UP,Ghazipur,44,-1,14,1294,11,691
 UP,Gonda,19,1,12,861,13,369
 UP,Gorakhpur,77,4,52,2663,60,1363
-UP,Hamirpur,1,,3,333,9,196
-UP,Hapur,10,,53,1336,20,1100
-UP,Hardoi,42,,40,1259,13,756
-UP,Hathras,5,,4,291,6,244
-UP,Jalaun,26,,,562,10,253
-UP,Jaunpur,112,,45,2295,16,1142
-UP,Jhansi,73,,55,2548,71,1716
-UP,Kannauj,-2,,31,946,7,589
-UP,Kanpur Dehat,5,,2,336,3,144
+UP,Hamirpur,1,-1,3,333,9,196
+UP,Hapur,10,-1,53,1336,20,1100
+UP,Hardoi,42,-1,40,1259,13,756
+UP,Hathras,5,-1,4,291,6,244
+UP,Jalaun,26,-1,-1,562,10,253
+UP,Jaunpur,112,-1,45,2295,16,1142
+UP,Jhansi,73,-1,55,2548,71,1716
+UP,Kannauj,-2,-1,31,946,7,589
+UP,Kanpur Dehat,5,-1,2,336,3,144
 UP,Kanpur Nagar,260,8,47,6504,228,2431
-UP,Kasganj,19,,1,460,1,317
-UP,Kaushambi,1,,5,377,4,298
-UP,Kushinagar,31,,28,912,7,434
+UP,Kasganj,19,-1,1,460,1,317
+UP,Kaushambi,1,-1,5,377,4,298
+UP,Kushinagar,31,-1,28,912,7,434
 UP,Lakhimpur Kheri,2,1,12,565,7,268
-UP,Lalitpur,24,,3,421,4,31
+UP,Lalitpur,24,-1,3,421,4,31
 UP,Lucknow,612,4,315,9805,124,5043
 UP,Maharajganj,19,1,17,875,9,505
-UP,Mahoba,2,,3,305,3,209
+UP,Mahoba,2,-1,3,305,3,209
 UP,Mainpuri,10,1,7,779,17,618
-UP,Mathura,22,,26,981,33,653
-UP,Mau,12,,7,580,6,347
-UP,Meerut,22,,6,2383,112,1813
-UP,Mirzapur,21,,5,845,14,352
+UP,Mathura,22,-1,26,981,33,653
+UP,Mau,12,-1,7,580,6,347
+UP,Meerut,22,-1,6,2383,112,1813
+UP,Mirzapur,21,-1,5,845,14,352
 UP,Moradabad,33,3,47,2149,61,1196
-UP,Muzaffarnagar,13,,26,905,20,629
-UP,Pilibhit,10,,56,878,6,367
-UP,Pratapgarh,18,,11,524,13,199
+UP,Muzaffarnagar,13,-1,26,905,20,629
+UP,Pilibhit,10,-1,56,878,6,367
+UP,Pratapgarh,18,-1,11,524,13,199
 UP,Prayagraj,130,3,61,3040,63,1083
-UP,Rae Bareli,24,,2,670,11,363
+UP,Rae Bareli,24,-1,2,670,11,363
 UP,Rampur,99,2,10,1348,19,652
 UP,Saharanpur,30,3,3,1226,16,709
-UP,Sambhal,12,,13,1037,19,830
-UP,Sant Kabir Nagar,57,,24,1121,10,700
+UP,Sambhal,12,-1,13,1037,19,830
+UP,Sant Kabir Nagar,57,-1,24,1121,10,700
 UP,Shahjahanpur,3,1,22,1253,10,570
-UP,Shamli,12,,7,502,7,343
-UP,Shrawasti,18,,10,205,3,123
-UP,Siddharthnagar,11,,8,916,12,531
-UP,Sitapur,21,,,636,1,166
-UP,Sonbhadra,45,,27,675,,382
-UP,Sultanpur,36,,25,866,19,488
-UP,Unnao,54,,66,940,14,481
+UP,Shamli,12,-1,7,502,7,343
+UP,Shrawasti,18,-1,10,205,3,123
+UP,Siddharthnagar,11,-1,8,916,12,531
+UP,Sitapur,21,-1,-1,636,1,166
+UP,Sonbhadra,45,-1,27,675,-1,382
+UP,Sultanpur,36,-1,25,866,19,488
+UP,Unnao,54,-1,66,940,14,481
 UP,Varanasi,109,1,125,3419,84,1596
-UT,Almora,3,,,315,2,247
-UT,Chamoli,1,,,98,,82
+UT,Almora,3,-1,-1,315,2,247
+UT,Chamoli,1,-1,-1,98,-1,82
 UT,Champawat,10,1,3,135,2,74
 UT,Dehradun,48,2,55,1823,52,1335
-UT,Haridwar,23,,125,1610,2,785
+UT,Haridwar,23,-1,125,1610,2,785
 UT,Nainital,10,2,5,1289,20,679
-UT,Pauri Garhwal,6,,,228,4,184
-UT,Pithoragarh,32,,,182,,78
-UT,Rudraprayag,1,,2,81,1,68
-UT,Tehri Garhwal,3,,9,525,2,500
-UT,Udham Singh Nagar,63,,99,1356,8,564
-UT,Uttarkashi,8,,11,233,1,157
-WB,Alipurduar,45,,11,488,3,276
-WB,Bankura,17,,48,848,,594
-WB,Birbhum,65,,10,727,6,467
-WB,Cooch Behar,29,,13,1013,,570
+UT,Pauri Garhwal,6,-1,-1,228,4,184
+UT,Pithoragarh,32,-1,-1,182,-1,78
+UT,Rudraprayag,1,-1,2,81,1,68
+UT,Tehri Garhwal,3,-1,9,525,2,500
+UT,Udham Singh Nagar,63,-1,99,1356,8,564
+UT,Uttarkashi,8,-1,11,233,1,157
+WB,Alipurduar,45,-1,11,488,3,276
+WB,Bankura,17,-1,48,848,-1,594
+WB,Birbhum,65,-1,10,727,6,467
+WB,Cooch Behar,29,-1,13,1013,-1,570
 WB,Dakshin Dinajpur,56,2,6,1416,10,1002
 WB,Darjeeling,53,4,73,2589,27,1821
 WB,Hooghly,117,2,113,3793,65,2840
 WB,Howrah,190,6,135,8632,221,6394
-WB,Jalpaiguri,83,,31,1546,13,1154
-WB,Jhargram,2,,3,38,,31
-WB,Kalimpong,7,,,105,1,78
+WB,Jalpaiguri,83,-1,31,1546,13,1154
+WB,Jhargram,2,-1,3,38,-1,31
+WB,Kalimpong,7,-1,-1,105,1,78
 WB,Kolkata,719,15,769,24537,835,16966
 WB,Malda,51,1,18,2606,15,2067
 WB,Murshidabad,54,1,27,1012,13,673
 WB,Nadia,69,1,20,1231,12,854
 WB,North 24 Parganas,596,14,440,17431,403,11834
-WB,Paschim Bardhaman,154,,24,1216,11,667
+WB,Paschim Bardhaman,154,-1,24,1216,11,667
 WB,Paschim Medinipur,16,1,14,1316,17,997
 WB,Purba Bardhaman,36,1,21,1152,5,663
-WB,Purba Medinipur,136,,13,1825,15,1297
-WB,Purulia,17,,3,292,,192
+WB,Purba Medinipur,136,-1,13,1825,15,1297
+WB,Purulia,17,-1,3,292,-1,192
 WB,South 24 Parganas,233,6,170,5862,100,4387
-WB,Uttar Dinajpur,7,,104,1243,10,997
+WB,Uttar Dinajpur,7,-1,104,1243,10,997
